@@ -23,7 +23,7 @@ The **Library Management System** is a C# application designed to manage books, 
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/dehemiweerakoon/Library-app.git
-   cd LibraryApp
+   
    ```
 
 
